@@ -35,7 +35,7 @@ function Menu() {
 
       {!isOpen && (
         <div className="btnR">
-          <Button onClick={handleIsOpen}>Show genies resulsts</Button>
+          <Button onClick={handleIsOpen}>Show techie results</Button>
         </div>
       )}
       {isOpen &&
