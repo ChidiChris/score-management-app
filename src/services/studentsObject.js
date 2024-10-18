@@ -34,11 +34,11 @@ export const studentsResults = [
   },
   {
     name: "Ejim Martha",
-    img: "https://i.pravatar.cc/80?u=9",
-    track: "Product Design",
-    scores: [6, 7, 8, 9, 7, 8, 9, 10, 8, 6, 9],
-    avgScore: 8,
-    studentId: 9,
+    img: "https://i.pravatar.cc/80?u=11",
+    track: "Backend",
+    scores: [10, 9, 8, 7, 6, 5, 4, 8, 9, 7, 6],
+    avgScore: 7,
+    studentId: 11,
   },
   {
     name: "Raphael Ugwu",
@@ -50,11 +50,11 @@ export const studentsResults = [
   },
   {
     name: "Hassan Abdul",
-    img: "https://i.pravatar.cc/80?u=11",
-    track: "Backend",
-    scores: [10, 9, 8, 7, 6, 5, 4, 8, 9, 7, 6],
-    avgScore: 7,
-    studentId: 11,
+    img: "https://i.pravatar.cc/80?u=9",
+    track: "Product Design",
+    scores: [6, 7, 8, 9, 7, 8, 9, 10, 8, 6, 9],
+    avgScore: 8,
+    studentId: 9,
   },
   {
     name: "Ifeanyi Orji",
