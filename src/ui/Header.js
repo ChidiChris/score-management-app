@@ -47,7 +47,7 @@ function Header({ open }) {
 function SortInfo({ isOpen, handleClick, setTracks, dispatch, setIsOpen }) {
   const studentsLists = useSelector(allStudents);
 
-  if (studentsLists.length > 80) setTracks("Learnable");
+  if (studentsLists.length > 80) setTracks("Nascomsoft");
   return (
     <div className={`sort-details ${!isOpen ? "transition" : "transBack"}`}>
       <p
