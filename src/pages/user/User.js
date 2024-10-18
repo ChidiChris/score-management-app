@@ -23,7 +23,7 @@ function User() {
       <h1 className="header loginH">
         {name
           ? `Hey ${name} Click enter to continue`
-          : "Hey Genie Enter Your name to continue!"}
+          : "Hey Techie! Enter Your name to continue!"}
       </h1>
       <div className="login">
         <input
@@ -34,7 +34,7 @@ function User() {
           onChange={(e) => setName(e.target.value)}
         />
 
-        {name.length > 0 && <Button className="submit-Btn">Go genie</Button>}
+        {name.length > 0 && <Button className="submit-Btn">Go Techie</Button>}
       </div>
     </form>
   );
