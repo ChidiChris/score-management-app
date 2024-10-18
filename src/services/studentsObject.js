@@ -1,39 +1,31 @@
 export const studentsResults = [
   {
-    name: "Ade Olu",
+    name: "Chidi Christopher",
     img: "https://i.pravatar.cc/80?u=1",
     track: "Frontend",
-    scores: [9, 8, 7, 10, 6, 9, 8, 7, 9, 10, 8],
-    avgScore: 8,
+    scores: [9, 8, 9, 10, 9, 9, 9, 9, 9, 10, 8],
+    avgScore: 9,
     studentId: 1,
   },
   {
-    name: "Ali Ahmed",
-    img: "https://i.pravatar.cc/80?u=2",
-    track: "Backend",
-    scores: [7, 8, 9, 10, 8, 7, 6, 5, 6, 9, 7],
-    avgScore: 7,
-    studentId: 2,
-  },
-  {
-    name: "Ogechi Eze",
+    name: "Franca Chisom",
     img: "https://i.pravatar.cc/80?u=3",
     track: "Product Design",
-    scores: [8, 9, 6, 7, 10, 8, 9, 6, 5, 7, 8],
-    avgScore: 7,
+    scores: [8, 9, 8, 7, 10, 8, 9, 8, 7, 7, 8],
+    avgScore: 8,
     studentId: 3,
   },
 
   {
-    name: "Aisha Ibrahim",
+    name: "Kingsley Obinna",
     img: "https://i.pravatar.cc/80?u=7",
     track: "Frontend",
-    scores: [7, 8, 9, 10, 8, 7, 6, 5, 6, 9, 7],
-    avgScore: 7,
+    scores: [7, 8, 9, 10, 8, 7, 8, 5, 6, 9, 7],
+    avgScore: 8,
     studentId: 7,
   },
   {
-    name: "Musa Suleiman",
+    name: "Seth Samuel",
     img: "https://i.pravatar.cc/80?u=8",
     track: "Backend",
     scores: [8, 9, 6, 7, 10, 8, 9, 6, 5, 7, 8],
@@ -41,7 +33,7 @@ export const studentsResults = [
     studentId: 8,
   },
   {
-    name: "Chiamaka Nwosu",
+    name: "Ejim Martha",
     img: "https://i.pravatar.cc/80?u=9",
     track: "Product Design",
     scores: [6, 7, 8, 9, 7, 8, 9, 10, 8, 6, 9],
@@ -49,7 +41,7 @@ export const studentsResults = [
     studentId: 9,
   },
   {
-    name: "Emeka Chukwu",
+    name: "Raphael Ugwu",
     img: "https://i.pravatar.cc/80?u=10",
     track: "Frontend",
     scores: [9, 8, 7, 6, 8, 9, 10, 7, 8, 6, 9],
@@ -65,7 +57,7 @@ export const studentsResults = [
     studentId: 11,
   },
   {
-    name: "Ngozi Obi",
+    name: "Ifeanyi Orji",
     img: "https://i.pravatar.cc/80?u=12",
     track: "Product Design",
     scores: [7, 8, 9, 10, 8, 7, 6, 5, 6, 9, 7],
@@ -74,7 +66,7 @@ export const studentsResults = [
   },
 
   {
-    name: "Oluwaseun Adeyemi",
+    name: "Oluwaseun Adeyem",
     img: "https://i.pravatar.cc/80?u=21",
     track: "Frontend",
     scores: [9, 8, 7, 10, 6, 9, 8, 7, 9, 10, 8],
@@ -82,7 +74,7 @@ export const studentsResults = [
     studentId: 21,
   },
   {
-    name: "Chinedu Eze",
+    name: "Chinedu Ezedimma",
     img: "https://i.pravatar.cc/80?u=22",
     track: "Backend",
     scores: [7, 8, 9, 10, 8, 7, 6, 5, 6, 9, 7],
@@ -98,7 +90,7 @@ export const studentsResults = [
     studentId: 23,
   },
   {
-    name: "Chukwuemeka Okoro",
+    name: "Chukwuemeka Emmanuel",
     img: "https://i.pravatar.cc/80?u=24",
     track: "Frontend",
     scores: [6, 7, 8, 9, 7, 8, 9, 10, 8, 6, 9],
@@ -106,7 +98,7 @@ export const studentsResults = [
     studentId: 24,
   },
   {
-    name: "Blessing Mohammed",
+    name: "Blessing Eze",
     img: "https://i.pravatar.cc/80?u=25",
     track: "Backend",
     scores: [9, 8, 7, 6, 8, 9, 10, 7, 8, 6, 9],
@@ -114,7 +106,7 @@ export const studentsResults = [
     studentId: 25,
   },
   {
-    name: "Chidimma Nwosu",
+    name: "Babatunde Obe",
     img: "https://i.pravatar.cc/80?u=26",
     track: "Product Design",
     scores: [10, 9, 8, 7, 6, 5, 4, 8, 9, 7, 6],
@@ -138,7 +130,7 @@ export const studentsResults = [
     studentId: 28,
   },
   {
-    name: "Nneka Obiora",
+    name: "Nnaemeka Egba",
     img: "https://i.pravatar.cc/80?u=29",
     track: "Product Design",
     scores: [6, 7, 8, 9, 7, 8, 9, 10, 8, 6, 9],
@@ -146,7 +138,7 @@ export const studentsResults = [
     studentId: 29,
   },
   {
-    name: "Chigozie Onye",
+    name: "Chigozie Onyekachukwu",
     img: "https://i.pravatar.cc/80?u=30",
     track: "Frontend",
     scores: [9, 8, 7, 6, 8, 9, 10, 7, 8, 6, 9],
@@ -162,7 +154,7 @@ export const studentsResults = [
     studentId: 31,
   },
   {
-    name: "Omotayo Azeez",
+    name: "Omotayo Olorutola",
     img: "https://i.pravatar.cc/80?u=32",
     track: "Product Design",
     scores: [7, 8, 9, 10, 8, 7, 6, 5, 6, 9, 7],
@@ -186,7 +178,7 @@ export const studentsResults = [
     studentId: 34,
   },
   {
-    name: "Chidi Okafor",
+    name: "Chidi John",
     img: "https://i.pravatar.cc/80?u=35",
     track: "Product Design",
     scores: [8, 9, 6, 7, 10, 8, 9, 6, 5, 7, 8],
@@ -202,7 +194,7 @@ export const studentsResults = [
     studentId: 36,
   },
   {
-    name: "Ngozi Okafor",
+    name: "Solomon Akomodi",
     img: "https://i.pravatar.cc/80?u=37",
     track: "Backend",
     scores: [9, 8, 7, 6, 8, 9, 10, 7, 8, 6, 9],
@@ -218,7 +210,7 @@ export const studentsResults = [
     studentId: 38,
   },
   {
-    name: "Obinna Okoro",
+    name: "David John",
     img: "https://i.pravatar.cc/80?u=39",
     track: "Frontend",
     scores: [7, 8, 9, 10, 8, 7, 6, 5, 6, 9, 7],
@@ -242,7 +234,7 @@ export const studentsResults = [
     studentId: 41,
   },
   {
-    name: "Nneka Ibe",
+    name: "Nneka Princess",
     img: "https://i.pravatar.cc/80?u=42",
     track: "Frontend",
     scores: [9, 8, 7, 6, 8, 9, 10, 7, 8, 6, 9],
@@ -274,7 +266,7 @@ export const studentsResults = [
     studentId: 45,
   },
   {
-    name: "Chidinma Nwosu",
+    name: "Emmanuel Ojukwu",
     img: "https://i.pravatar.cc/80?u=46",
     track: "Backend",
     scores: [7, 8, 9, 10, 8, 7, 6, 5, 6, 9, 7],
@@ -290,7 +282,7 @@ export const studentsResults = [
     studentId: 47,
   },
   {
-    name: "Chukwuemeka Okoro",
+    name: "Emeka Okoro",
     img: "https://i.pravatar.cc/80?u=48",
     track: "Frontend",
     scores: [6, 7, 8, 9, 7, 8, 9, 10, 8, 6, 9],
@@ -306,7 +298,7 @@ export const studentsResults = [
     studentId: 49,
   },
   {
-    name: "Omotayo Azeez",
+    name: "Omotayo Bola",
     img: "https://i.pravatar.cc/80?u=50",
     track: "Product Design",
     scores: [10, 9, 8, 7, 6, 5, 4, 8, 9, 7, 6],
@@ -314,7 +306,7 @@ export const studentsResults = [
     studentId: 50,
   },
   {
-    name: "Ezinne Okonkwo",
+    name: "Okoro Ejiofor",
     img: "https://i.pravatar.cc/80?u=51",
     track: "Frontend",
     scores: [7, 8, 9, 10, 8, 7, 6, 5, 6, 9, 7],
@@ -345,7 +337,6 @@ export const studentsResults = [
     avgScore: 8,
     studentId: 54,
   },
-
   {
     name: "Oluwakemi Oladele",
     img: "https://i.pravatar.cc/80?u=59",
@@ -371,7 +362,7 @@ export const studentsResults = [
     studentId: 61,
   },
   {
-    name: "Taiwo Obi",
+    name: "Taiwo Obinna",
     img: "https://i.pravatar.cc/80?u=62",
     track: "Product Design",
     scores: [10, 9, 8, 7, 6, 5, 4, 8, 9, 7, 6],
@@ -379,7 +370,7 @@ export const studentsResults = [
     studentId: 62,
   },
   {
-    name: "Joy Okeke",
+    name: "Joy Ameh",
     img: "https://i.pravatar.cc/80?u=63",
     track: "Frontend",
     scores: [7, 8, 9, 10, 8, 7, 6, 5, 6, 9, 7],
@@ -387,7 +378,7 @@ export const studentsResults = [
     studentId: 63,
   },
   {
-    name: "Adeoluwa Akin",
+    name: "Azuka Nathaniel",
     img: "https://i.pravatar.cc/80?u=64",
     track: "Backend",
     scores: [8, 9, 6, 7, 10, 8, 9, 6, 5, 7, 8],
@@ -404,7 +395,7 @@ export const studentsResults = [
   },
 
   {
-    name: "Emmanuel Ani",
+    name: "Emmanuel Eze",
     img: "https://i.pravatar.cc/80?u=66",
     track: "Frontend",
     scores: [6, 7, 8, 9, 7, 8, 9, 10, 8, 6, 9],
@@ -413,7 +404,7 @@ export const studentsResults = [
   },
 
   {
-    name: "Folake Adeleke",
+    name: "David Adeleke",
     img: "https://i.pravatar.cc/80?u=70",
     track: "Backend",
     scores: [8, 9, 6, 7, 10, 8, 9, 6, 5, 7, 8],
@@ -437,7 +428,7 @@ export const studentsResults = [
     studentId: 72,
   },
   {
-    name: "David Okafor",
+    name: "David Okoro",
     img: "https://i.pravatar.cc/80?u=73",
     track: "Backend",
     scores: [7, 8, 9, 10, 8, 7, 6, 5, 6, 9, 7],
@@ -469,7 +460,7 @@ export const studentsResults = [
     studentId: 76,
   },
   {
-    name: "Emeka Chukwu",
+    name: "Emeka Chikeluba",
     img: "https://i.pravatar.cc/80?u=77",
     track: "Product Design",
     scores: [10, 9, 8, 7, 6, 5, 4, 8, 9, 7, 6],
@@ -478,7 +469,7 @@ export const studentsResults = [
   },
 
   {
-    name: "Chinedu Okonkwo",
+    name: "Chinedu Eze",
     img: "https://i.pravatar.cc/80?u=118836",
     track: "web3",
     scores: [7, 8, 9, 6, 8, 7, 9, 8, 7, 8, 9],
@@ -527,7 +518,7 @@ export const studentsResults = [
     studentId: 68,
   },
   {
-    name: "Chibuzo Okonkwo",
+    name: "Chibuzo Bankole",
     img: "https://i.pravatar.cc/80?u=69",
     track: "Frontend",
     scores: [7, 8, 9, 10, 8, 7, 6, 5, 6, 9, 7],
@@ -535,7 +526,7 @@ export const studentsResults = [
     studentId: 69,
   },
   {
-    name: "Emeka Okafor",
+    name: "James Okafor",
     img: "https://i.pravatar.cc/80?u=118838",
     track: "web3",
     scores: [9, 8, 7, 9, 6, 8, 9, 7, 8, 7, 8],
@@ -551,7 +542,7 @@ export const studentsResults = [
     studentId: 55,
   },
   {
-    name: "Ngozi Ibe",
+    name: "Cynthia Ibe",
     img: "https://i.pravatar.cc/80?u=56",
     track: "Product Design",
     scores: [7, 8, 9, 10, 8, 7, 6, 5, 6, 9, 7],
@@ -559,7 +550,7 @@ export const studentsResults = [
     studentId: 56,
   },
   {
-    name: "Adeola Alabi",
+    name: "Adeola Adeyemi",
     img: "https://i.pravatar.cc/80?u=57",
     track: "Frontend",
     scores: [9, 8, 7, 10, 6, 9, 8, 7, 9, 10, 8],
@@ -567,7 +558,7 @@ export const studentsResults = [
     studentId: 57,
   },
   {
-    name: "Chinedu Nwosu",
+    name: "Chinedu Chisom",
     img: "https://i.pravatar.cc/80?u=58",
     track: "Backend",
     scores: [7, 8, 9, 10, 8, 7, 6, 5, 6, 9, 7],
@@ -583,7 +574,7 @@ export const studentsResults = [
     studentId: 104,
   },
   {
-    name: "Obinna Nwosu",
+    name: "Obinna Paul",
     img: "https://i.pravatar.cc/80?u=118840",
     track: "web3",
     scores: [7, 8, 9, 6, 8, 7, 9, 8, 7, 8, 9],
@@ -591,7 +582,7 @@ export const studentsResults = [
     studentId: 105,
   },
   {
-    name: "Chukwudi Nwankwo",
+    name: "Chukwudi Chimdalu",
     img: "https://i.pravatar.cc/80?u=4",
     track: "Frontend",
     scores: [6, 7, 8, 9, 7, 8, 9, 10, 8, 6, 9],
@@ -607,11 +598,11 @@ export const studentsResults = [
     studentId: 5,
   },
   {
-    name: "Chinedu Okoro",
+    name: "Ifeoma Doris",
     img: "https://i.pravatar.cc/80?u=6",
     track: "Product Design",
     scores: [10, 9, 8, 7, 6, 5, 4, 8, 9, 7, 6],
-    avgScore: 7,
+    avgScore: 8,
     studentId: 6,
   },
   {
@@ -639,7 +630,7 @@ export const studentsResults = [
     studentId: 108,
   },
   {
-    name: "Chukwuemeka Okeke",
+    name: "Nkiruka Edith",
     img: "https://i.pravatar.cc/80?u=118844",
     track: "web3",
     scores: [7, 8, 9, 6, 8, 7, 9, 8, 7, 8, 9],
@@ -647,12 +638,20 @@ export const studentsResults = [
     studentId: 109,
   },
   {
-    name: "Blessing Onyema",
+    name: "David Onyema",
     img: "https://i.pravatar.cc/80?u=118845",
     track: "web3",
     scores: [8, 9, 7, 8, 7, 8, 9, 8, 9, 7, 8],
     avgScore: 80,
     studentId: 110,
+  },
+  {
+    name: "Ali Usman",
+    img: "https://i.pravatar.cc/80?u=2",
+    track: "Backend",
+    scores: [7, 8, 9, 10, 8, 7, 6, 5, 6, 9, 7],
+    avgScore: 7,
+    studentId: 2,
   },
   {
     name: "Ogechi Okoli",
@@ -663,7 +662,7 @@ export const studentsResults = [
     studentId: 111,
   },
   {
-    name: "Ikenna Obi",
+    name: "Ikenna Kingsley",
     img: "https://i.pravatar.cc/80?u=118847",
     track: "web3",
     scores: [8, 9, 7, 8, 6, 7, 8, 9, 8, 7, 8],
