@@ -662,6 +662,14 @@ export const studentsResults = [
     studentId: 111,
   },
   {
+    name: "Ogechi Okoli",
+    img: "https://i.pravatar.cc/80?u=118846",
+    track: "web3",
+    scores: [9, 8, 7, 9, 6, 8, 9, 7, 8, 7, 8],
+    avgScore: 78,
+    studentId: 111,
+  },
+  {
     name: "Ikenna Kingsley",
     img: "https://i.pravatar.cc/80?u=118847",
     track: "web3",
