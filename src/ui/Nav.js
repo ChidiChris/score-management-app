@@ -35,7 +35,7 @@ function Nav() {
   return (
     <nav className="nav">
       <p className="logo" onClick={handleClick} style={{ cursor: "pointer" }}>
-        Learnable task
+        Intern task
       </p>
       <form>
         {menu && (
