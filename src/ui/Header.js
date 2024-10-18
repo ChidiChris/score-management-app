@@ -54,7 +54,7 @@ function SortInfo({ isOpen, handleClick, setTracks, dispatch, setIsOpen }) {
         className="head-p"
         onClick={() => {
           dispatch(updateStudents(studentsResults));
-          setTracks("Learnable");
+          setTracks("Nascomsoft");
           setIsOpen((isop) => !isop);
         }}
       >
