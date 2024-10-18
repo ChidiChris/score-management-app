@@ -6,7 +6,7 @@ import { studentsResults } from "../services/studentsObject";
 
 function Header({ open }) {
   const [isOpen, setIsOpen] = useState(false);
-  const [tracks, setTracks] = useState("Learnable ");
+  const [tracks, setTracks] = useState("Nascomsoft");
 
   const dispatch = useDispatch();
   function handleClick(track) {
